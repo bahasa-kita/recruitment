@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+*.pyc
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+
+# Python package
+dist/
+*.egg-info
+build/
+
+# PyCharm
+.idea
+
+# Generated
+README.rst
+
+venv
+data
+*.orig
+*/*.orig
+*/*/*.orig
+*/*/*/*.orig
+*/*/*/*/*.orig
